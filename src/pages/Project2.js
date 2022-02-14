@@ -3,7 +3,6 @@ import {
   MeshWobbleMaterial,
   OrbitControls,
   softShadows,
-  Stars,
 } from "@react-three/drei";
 import { Canvas, useFrame } from "@react-three/fiber";
 import React, { useRef, useState } from "react";
